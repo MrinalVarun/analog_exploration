@@ -31,15 +31,8 @@ This project helps reinforce concepts of **small-signal gain**, **phase response
 
 ## 📁 Files
 
-- **Schematics** (`.sch`)  
+  
 - **Simulation results** (waveforms, plots)
 
 ---
 
-## 📝 Notes
-
-This project is ideal for understanding how a single-stage amplifier behaves over frequency and phase, and it can be extended to multi-stage or feedback designs.
-
----
-
-**Happy simulating! 🔍✨**
